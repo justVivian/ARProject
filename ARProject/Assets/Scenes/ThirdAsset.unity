@@ -340,7 +340,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &227047261
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1455,10 +1455,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cursorChildObject: {fileID: 1277822808}
-  objectToPlace: {fileID: 919132149155446097, guid: c8fa4ec57630333409e2f10e0fc48919, type: 3}
+  objectToPlace: {fileID: 6391510450689265216, guid: ff263a52e75b86c43b7eb7f14218c961, type: 3}
   raycastManager: {fileID: 498740066}
   useCursor: 0
-  maxPrefabSpawnCount: 5
 --- !u!4 &1791190623
 Transform:
   m_ObjectHideFlags: 0
@@ -1674,7 +1673,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &2045072561
 MonoBehaviour:
   m_ObjectHideFlags: 0
