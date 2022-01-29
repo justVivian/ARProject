@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &1642526349189417087
+--- !u!1 &720619593794804768
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,12 +8,12 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1642526349188928607}
-  - component: {fileID: 1642526349188158591}
-  - component: {fileID: 1642526349187159743}
-  - component: {fileID: 1642526349191522015}
-  - component: {fileID: 1642526349182041023}
-  - component: {fileID: 7987641363364345512}
+  - component: {fileID: 720619593794895872}
+  - component: {fileID: 720619593795665952}
+  - component: {fileID: 720619593796797152}
+  - component: {fileID: 720619593792713344}
+  - component: {fileID: 720619593802067936}
+  - component: {fileID: 8219781593761882871}
   m_Layer: 0
   m_Name: india_stella_manjuvajra
   m_TagString: Untagged
@@ -21,13 +21,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &1642526349188928607
+--- !u!4 &720619593794895872
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1642526349189417087}
+  m_GameObject: {fileID: 720619593794804768}
   m_LocalRotation: {x: -0.0000000754979, y: 1, z: 0.00000016888312, w: -1.2811554e-14}
   m_LocalPosition: {x: -0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -36,21 +36,21 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!33 &1642526349188158591
+--- !u!33 &720619593795665952
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1642526349189417087}
+  m_GameObject: {fileID: 720619593794804768}
   m_Mesh: {fileID: 4300000, guid: dbe283a54ccabc94faa1c3c67c9f47e0, type: 3}
---- !u!23 &1642526349187159743
+--- !u!23 &720619593796797152
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1642526349189417087}
+  m_GameObject: {fileID: 720619593794804768}
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -86,13 +86,13 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &1642526349191522015
+--- !u!64 &720619593792713344
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1642526349189417087}
+  m_GameObject: {fileID: 720619593794804768}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
@@ -100,14 +100,14 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: dbe283a54ccabc94faa1c3c67c9f47e0, type: 3}
---- !u!95 &1642526349182041023
+--- !u!95 &720619593802067936
 Animator:
   serializedVersion: 4
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1642526349189417087}
+  m_GameObject: {fileID: 720619593794804768}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: dbe283a54ccabc94faa1c3c67c9f47e0, type: 3}
   m_Controller: {fileID: 0}
@@ -120,17 +120,17 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!82 &7987641363364345512
+--- !u!82 &8219781593761882871
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1642526349189417087}
+  m_GameObject: {fileID: 720619593794804768}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: d5244c01c6304bc4885e71852f855877, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 4f7cfd4dbdb75ed4fa43f596a74b9c99, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1

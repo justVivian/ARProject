@@ -3,4 +3,5 @@ Referensi :
 - https://www.youtube.com/watch?v=RsgiYqLID-U
 - https://stackoverflow.com/questions/53517667/unity-ar-how-can-i-trigger-a-button-in-the-scene
 - https://www.youtube.com/watch?v=lHoTZjFjLsw&t=620s
-- 
+- https://www.youtube.com/watch?v=1WDNsm1ZBhc
+- https://www.youtube.com/watch?v=mfk8DjJ4GdQ

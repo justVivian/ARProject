@@ -1856,7 +1856,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cursorChildObject: {fileID: 1277822808}
-  objectToPlace: {fileID: 64568784916975050, guid: 0e4c6b9cb0e23aa4bbbae3b5bafb1079, type: 3}
+  objectToPlace: {fileID: 5451185459260374409, guid: de190485a296fe04b952c6a0a5466e86, type: 3}
   raycastManager: {fileID: 498740066}
   useCursor: 0
 --- !u!4 &1791190623
