@@ -11,12 +11,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FirstAsset.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/SecondAsset1.unity
+    guid: 4d6109e61a4efc24b806511e6e0e7740
+  - enabled: 0
+    path: Assets/Scenes/ThirdAsset1.unity
+    guid: d0790681d431ef2438369ce21d1014f9
   - enabled: 1
     path: Assets/Scenes/SecondAsset.unity
-    guid: 4d6109e61a4efc24b806511e6e0e7740
+    guid: ffa39b423b9187d4b9cea4bd09afad04
   - enabled: 1
     path: Assets/Scenes/ThirdAsset.unity
-    guid: d0790681d431ef2438369ce21d1014f9
+    guid: c58c39029a6da4f4da7c6646168a947a
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 3531d57dfd54ce641b6a10def4ac8686, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: f68c715c172450b4597730c3580c8ce5, type: 2}
