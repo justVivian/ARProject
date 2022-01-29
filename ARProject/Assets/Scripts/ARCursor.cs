@@ -9,7 +9,7 @@ public class ARCursor : MonoBehaviour
     public GameObject cursorChildObject; //spawnedObject
     public GameObject objectToPlace; //PlaceablePrefab
     public ARRaycastManager raycastManager;
-    private List<GameObject> placedPrefabList = new List<GameObject>();
+    //private List<GameObject> placedPrefabList = new List<GameObject>();
 
     public bool useCursor = true; 
 

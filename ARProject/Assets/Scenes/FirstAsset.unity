@@ -872,7 +872,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Exit
+  m_Text: 
 --- !u!222 &780272736
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1118,8 +1118,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -120, y: 0}
-  m_SizeDelta: {x: 120, y: 120}
+  m_AnchoredPosition: {x: -160, y: 0}
+  m_SizeDelta: {x: 160, y: 120}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1000471292
 MonoBehaviour:
@@ -1197,8 +1197,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: 48300e77dafb33549aa9ad951f84c348, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -1856,7 +1856,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cursorChildObject: {fileID: 1277822808}
-  objectToPlace: {fileID: 6391510450689265216, guid: ff263a52e75b86c43b7eb7f14218c961, type: 3}
+  objectToPlace: {fileID: 1175605979817025028, guid: 9e1476772165d1747ae4815d2d555391, type: 3}
   raycastManager: {fileID: 498740066}
   useCursor: 0
 --- !u!4 &1791190623
@@ -1889,6 +1889,7 @@ GameObject:
   - component: {fileID: 1824147208}
   - component: {fileID: 1824147207}
   - component: {fileID: 1824147211}
+  - component: {fileID: 1824147212}
   m_Layer: 0
   m_Name: AR Camera
   m_TagString: Untagged
@@ -2013,6 +2014,14 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 2147483647
   m_MaxRayIntersections: 0
+--- !u!81 &1824147212
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1824147205}
+  m_Enabled: 1
 --- !u!1 &1882627341
 GameObject:
   m_ObjectHideFlags: 0
@@ -2112,7 +2121,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 120, y: 120}
+  m_SizeDelta: {x: 160, y: 120}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1931823356
 MonoBehaviour:
@@ -2190,8 +2199,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: a398c6a154a81934aad39b8be1b81fdf, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -2308,7 +2317,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Back
+  m_Text: 
 --- !u!222 &1941697460
 CanvasRenderer:
   m_ObjectHideFlags: 0
